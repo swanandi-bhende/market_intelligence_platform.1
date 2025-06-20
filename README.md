@@ -10,8 +10,8 @@ A real-time analytics platform that empowers businesses to track competitors, fo
 
 ## Technology Stack
 - **Data Collection**: Python (Scrapy, BeautifulSoup), REST APIs
-- **Analytics**: Pandas, Scikit-learn, Prophet, Hugging Face Transformers
-- **Infrastructure**: AWS S3, SQL databases, Jupyter Notebooks
+- **Analytics**: Pandas, Scikit-learn, Hugging Face Transformers
+- **Infrastructure**: SQL databases, Jupyter Notebooks
 
 ## Use Cases
 1. Marketing teams optimizing campaign budgets
@@ -21,6 +21,7 @@ A real-time analytics platform that empowers businesses to track competitors, fo
 ## Current Status
 -  Initial dashboard prototype developed
 -  Expanding ML model training datasets
+-  Trying to integrate usecases for Web3 market
 
 ## Documentation/ Media
 video 1- https://drive.google.com/file/d/1SDLuQrhNOdCkKJJtOH7wNaNlg9gc9FC6/view?usp=sharing

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
 import { Card, ChartContainer } from '../components/Common';
-import { CompetitorPriceChart, CompetitorTable } from '../components/Competitors';
+import { CompetitorPriceChart, CompetitorTable } from '../components/Competitor';
 
 const PageContainer = styled.div`
   display: flex;
